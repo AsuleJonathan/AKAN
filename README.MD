@@ -3,7 +3,7 @@ This project is a generator for akan names given to both male and female accordi
 
 live link
 Open my link to my Akan Name Generator
-https://einsteinelaim.github.io/AkanNamesGenerator/
+https://asulejonathan.github.io/AKAN
 
 Contents
 This project entails of a html file for home page where you can enter your birthday and get an arkan name output respectfully.
