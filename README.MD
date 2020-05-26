@@ -14,7 +14,7 @@ Technologies used
 Html, Css, images(jpg,png), mark down for readme.md and js for javascript file
 
 Setup/Installation Requirements
-Does not need setup, just run the project index.html or clone/download the project from the github repository live link and run away!
+Doesn't need setup, just run the project index.html or clone/download the project from the github repository live link and run away!
 
 Bugs
 As is, this project contains no bugs.
