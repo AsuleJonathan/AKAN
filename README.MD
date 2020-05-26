@@ -31,7 +31,7 @@ Javascript
 ## CONTACT INFORMATION
 
 All parties are welcome fo any contribtions or corrections at the following email.
-hosanajoshua@gmail.com
+asulejona@gmail.com
 
 ## LICENSE AND COPYRIGHT INFORMATION
 
