@@ -6,9 +6,8 @@ This is a web application that takes a user's birthday and calculates the day of
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
 Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us, there are ways to calculate the day of the week from a specific date. This is made possibe using the web application.
 
-## AUTHORS(S) INFORMATION
-
-My name is Hosana Joshua. A front end developer currently studying web Development at Moringa School. Check out my Portfolio at :https://asulejonathan.github.io/AKAN
+## AUTHORS(S) INFORMATION.
+I am Asule, a front end developer currently studying web Development at Moringa School. Check out my Portfolio at :https://asulejonathan.github.io/AKAN
 
 ## SETUP INSTRUCTIONS
 
