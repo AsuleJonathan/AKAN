@@ -8,7 +8,7 @@ Most people do know when their birthdays are, but some might not know what day o
 
 ## AUTHORS(S) INFORMATION
 
-My name is Hosana Joshua. A front end developer currently studying web Development at Moringa School. Check out my Portfolio at :https://joshua-254.github.io/project./
+My name is Hosana Joshua. A front end developer currently studying web Development at Moringa School. Check out my Portfolio at :https://asulejonathan.github.io/AKAN
 
 ## SETUP INSTRUCTIONS
 
