@@ -17,7 +17,7 @@ Setup/Installation Requirements
 Doesn't need setup, just run the project index.html or clone/download the project from the github repository live link and run away!
 
 Bugs
-As this project contains no bugs.
+this project contains no bugs.
 
 Running
 To run this file on your machine, clone or download this repository and open index.html with live server for maximum performance.
