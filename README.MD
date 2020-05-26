@@ -8,7 +8,7 @@ https://asulejonathan.github.io/AKAN
 Contents
 This project entails a html file for home page where you can enter your birthday and get an arkan name output respectfully.
 
-It also contains  css file for styling, an images folder and a js file where the logic is passed.
+It also contains a css file for styling, an images folder and a js file where the logic is passed.
 
 Technologies used
 Html, Css, images(jpg and png), mark down for readme.md and js for javascript file
