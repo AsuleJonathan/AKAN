@@ -1,4 +1,4 @@
-#Akan Name Generator
+Akan Name Generator
 This project is a generator for akan names given to both male and female according to the day of the week you are born
 
 live link
