@@ -11,7 +11,7 @@ This project entails of a html file for home page where you can enter your birth
 It also contains a css file for styling, an images folder and a js file where all the logic is passed.
 
 Technologies used
-Html, Css, images(jpg,png), mark down for readme.md and js for javascript file
+Html, Css, images(jpg and png), mark down for readme.md and js for javascript file
 
 Setup/Installation Requirements
 Doesn't need setup, just run the project index.html or clone/download the project from the github repository live link and run away!
